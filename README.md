@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Salman Haider!  
 
-<!--
-**salmanhaider14/salmanhaider14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
 
-Here are some ideas to get you started:
+- 🛠 I design and build solutions that inspire.  
+- 🌱 Lifelong learner, always exploring new challenges.  
+- 🎯 Focused on clean, functional, and user-friendly design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 📊 GitHub Stats  
+<!-- Uncomment to display stats!  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanhaider14&show_icons=true&theme=radical&hide=issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanhaider14&layout=compact&theme=radical)  
+-->  
+---
+**💻 Build. Create. Innovate.**  
